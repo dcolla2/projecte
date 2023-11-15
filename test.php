@@ -1,2 +1,3 @@
 Codi PHP
-Afegint codi 1
+Modificant codi 1
+Afegint codi 2
